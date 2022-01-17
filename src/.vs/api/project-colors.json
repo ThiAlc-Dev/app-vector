@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b51d950-d0f2-4b86-bd92-dc70cbc0ea2e": {
+      "ProjectGuid": "1b51d950-d0f2-4b86-bd92-dc70cbc0ea2e",
+      "DisplayName": "application",
+      "ColorIndex": 0
+    },
+    "ba034d0f-3b16-4d60-aeb8-fc998a3689f6": {
+      "ProjectGuid": "ba034d0f-3b16-4d60-aeb8-fc998a3689f6",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "25ea77a7-89cb-4b08-a0e9-e3674253f139": {
+      "ProjectGuid": "25ea77a7-89cb-4b08-a0e9-e3674253f139",
+      "DisplayName": "Service",
+      "ColorIndex": 2
+    },
+    "925e44ca-8dfc-4109-82a4-df58bbe7060f": {
+      "ProjectGuid": "925e44ca-8dfc-4109-82a4-df58bbe7060f",
+      "DisplayName": "Domain",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "e8a06dc8-0333-4961-8610-3be80f9f923e": {
+      "ProjectGuid": "e8a06dc8-0333-4961-8610-3be80f9f923e",
+      "DisplayName": "CrosCutting",
+      "ColorIndex": 4
+    },
+    "3eb711a6-c4db-4d48-9f66-a633acfcf96d": {
+      "ProjectGuid": "3eb711a6-c4db-4d48-9f66-a633acfcf96d",
+      "DisplayName": "CrossCutting",
+      "ColorIndex": 5
+    },
+    "5e8c4d14-2a0f-4eff-ac49-0c42deee9a52": {
+      "ProjectGuid": "5e8c4d14-2a0f-4eff-ac49-0c42deee9a52",
+      "DisplayName": "Api.Data.Test",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

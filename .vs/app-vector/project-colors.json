@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b8461d2-6052-48da-9b0d-c406cf556287": {
+      "ProjectGuid": "9b8461d2-6052-48da-9b0d-c406cf556287",
+      "DisplayName": "app-vector",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "144e5adc-82cb-4fd7-94fd-513f938a9cde": {
+      "ProjectGuid": "144e5adc-82cb-4fd7-94fd-513f938a9cde",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "6eea32c4-09e6-402e-9f88-050b27a31ea9": {
+      "ProjectGuid": "6eea32c4-09e6-402e-9f88-050b27a31ea9",
+      "DisplayName": "Data",
+      "ColorIndex": 2
+    },
+    "124e5cab-3ca0-4161-a37e-2c0eadb9ec96": {
+      "ProjectGuid": "124e5cab-3ca0-4161-a37e-2c0eadb9ec96",
+      "DisplayName": "Service",
+      "ColorIndex": 3
+    },
+    "197c324d-81f3-4030-9361-ba2e7adb8419": {
+      "ProjectGuid": "197c324d-81f3-4030-9361-ba2e7adb8419",
+      "DisplayName": "Data",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

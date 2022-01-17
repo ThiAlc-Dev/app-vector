@@ -1,0 +1,48 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "name": ".NET Core Launch (web)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/bkp/bin/Debug/net5.0/app-vector.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/bkp",
+            "stopAtEntry": false,
+            // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "PORT": "5000",
+                "LANDSCAPE": "br",
+                "ENVIRONMENT": "local",
+                "APPLICATION_NAME": "api.application",
+                "VERSION": "1.0.0",
+                "CONFIG_VERSION": "1.0.0",
+                "CONFIG_ENVIRONMENT": "development",
+                "LOG_LEVEL": "INFORMATION",
+                "LOG_FORMAT": "JSON",
+                "MYSQL_CONNECTION": "Server=localhost;Port=3306;Uid=root;Pwd=13467900",
+                "MYSQL_DATABASE": "dbApi",
+                "MYSQL_VERSION": "5.7.30",
+                "MIGRATION":"APPLY"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}

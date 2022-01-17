@@ -1,0 +1,15 @@
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\bin\Debug\net5.0\Service.dll
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\bin\Debug\net5.0\Service.pdb
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\bin\Debug\net5.0\Domain.dll
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\bin\Debug\net5.0\Domain.pdb
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.dll
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\thiag\Documents\Projetos\app-vector\src\Api.Service\obj\Debug\net5.0\Service.pdb
