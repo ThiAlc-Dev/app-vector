@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7UyrnIhWdF+rj9hEy43WOAe49V2qh9e+t5RfTE4qBIClwDxFFFlSOfHbBpXtIvj86kK7HJVi8yhEpxEdcQBqYQ==",
+  "dgSpecHash": "G+N1pRMOWP0w94I+p4nZQ/KgYnzVavGzPBNuVPKhcyPzahOsJhuXk8bzRturJe2w4/Ba/6UCQ12ciMX2Z45xzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\thiag\\Documents\\Projetos\\app-vector\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.13\\microsoft.entityframeworkcore.5.0.13.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.13\\microsoft.entityframeworkcore.abstractions.5.0.13.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.13\\microsoft.entityframeworkcore.analyzers.5.0.13.nupkg.sha512",
-    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.10\\microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.13\\microsoft.entityframeworkcore.relational.5.0.13.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",

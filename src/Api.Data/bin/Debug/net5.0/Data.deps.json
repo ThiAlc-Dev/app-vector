@@ -12,6 +12,7 @@
           "EntityFramework": "6.4.4",
           "Microsoft.EntityFrameworkCore": "5.0.13",
           "Microsoft.EntityFrameworkCore.Design": "5.0.13",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.13",
           "Pomelo.EntityFrameworkCore.MySql": "5.0.3"
         },
         "runtime": {
