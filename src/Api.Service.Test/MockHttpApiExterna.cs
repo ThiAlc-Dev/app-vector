@@ -5,6 +5,8 @@ using Microsoft.Extensions.Logging;
 using Moq;
 using Moq.Protected;
 using Service.Services;
+using System;
+using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Threading;
@@ -23,7 +25,31 @@ namespace Api.Service.Test
 
             var httpResponseMessage = new HttpResponseMessage
             {
-                StatusCode = HttpStatusCode.OK
+                StatusCode = HttpStatusCode.OK,
+                Content = new StringContent(@"
+                            [
+                                {
+                                    ""createdAt"": ""2021-07-26T00:52:35.262Z"",
+                                    ""name"": ""Sam Kutch"",
+                                    ""avatar"": ""https://cdn.fakercloud.com/avatars/plasticine_128.jpg"",
+                                    ""mail"": ""Orpha.Howe@hotmail.com"",
+                                    ""id"": ""1""
+                                },
+                                {
+                                    ""createdAt"": ""2021-07-26T09:32:02.483Z"",
+                                    ""name"": ""Dr. Marta McCullough"",
+                                    ""avatar"": ""https://cdn.fakercloud.com/avatars/overcloacked_128.jpg"",
+                                    ""mail"": ""Adella_Koch61@hotmail.com"",
+                                    ""id"": ""2""
+                                },
+                                {
+                                    ""createdAt"": ""2021-07-26T20:52:18.340Z"",
+                                    ""name"": ""Jean Koch"",
+                                    ""avatar"": ""https://cdn.fakercloud.com/avatars/yigitpinarbasi_128.jpg"",
+                                    ""mail"": ""Morton18@gmail.com"",
+                                    ""id"": ""3""
+                                }
+                            ]")
             };
 
             httpMessageHandlerMock

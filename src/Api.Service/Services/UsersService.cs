@@ -53,10 +53,7 @@ namespace Service.Services
                     users = await GetUsersAsync(users);
             }
 
-            var query = from grp in users
-                        group grp by grp.createdAt.ToShortDateString() into nGroup
-                        orderby nGroup.Key descending
-                        select nGroup;
+            var query = GetQueryAgruped(users);
 
 
             foreach (var item in query)
@@ -108,5 +105,14 @@ namespace Service.Services
                 return new List<Users>();
             }
         }
+
+        public IOrderedEnumerable<IGrouping<string, Users>> GetQueryAgruped(List<Users> users)
+        {
+            return from grp in users
+                   group grp by grp.createdAt.ToShortDateString() into nGroup
+                   orderby nGroup.Key descending
+                   select nGroup;
+        }
+
     }
 }
